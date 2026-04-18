@@ -6,7 +6,7 @@
 
 ## Submission Note
 
-When I uploaded the zip file to Gradescope, Gradescope extracted the archive and then froze. This is why I need to upload the codebase to GitHub
+When I uploaded the zip file to Gradescope, Gradescope extracted the archive and then froze. This is why I need to upload the codebase to GitHub: https://github.com/tnguyen2907/hw2-app
 ## Project Overview
 
 The goal of the dashboard is to let a user explore county-level health patterns in the United States through a choropleth map and three additional linked visualizations.
